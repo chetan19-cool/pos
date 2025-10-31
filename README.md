@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 61 Wallpapers
+# 🌌 71 Wallpapers
 *A curated collection of minimal, aesthetic, and high-quality wallpapers for desktops & mobiles.*
 
 ![banner](54)
